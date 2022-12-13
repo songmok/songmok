@@ -10,3 +10,4 @@
 <--
 https://img.shields.io/badge/github-GIVEME--STAR-red
 -->
+https://img.shields.io/github/languages/count/beygee/survive
