@@ -7,7 +7,3 @@
 <--
 <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
 -->
-<--
-https://img.shields.io/badge/github-GIVEME--STAR-red
--->
-https://img.shields.io/github/languages/count/beygee/survive
