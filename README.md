@@ -1,5 +1,5 @@
-# SONGMOK PORTFOLIO - MY NOTION
-(https://ultra-relish-e13.notion.site/0f81e7ec1af1422294b3297c0308c825) ♬
+# SONGMOK PORTFOLIO - www.songmok.site
+notion - (https://ultra-relish-e13.notion.site/0f81e7ec1af1422294b3297c0308c825) ♬
 
 🛸　　　 　🌎　°　　🌓　•　　.°•　　　🚀 ✯
 
